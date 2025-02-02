@@ -1,7 +1,7 @@
 # Invoicing & Accounting Application
 
 ## Overview
-A modern, feature-rich invoicing and accounting application built with Python and PyQt5. This desktop application helps small businesses manage invoices, expenses, and financial reporting.
+A accounting application built with Python and PyQt5. This desktop application helps small businesses manage invoices, expenses, and financial reporting.
 
 ## Features
 - Add, edit, and delete invoices
