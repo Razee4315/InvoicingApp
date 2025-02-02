@@ -4,7 +4,7 @@
 A accounting application built with Python and PyQt5. This desktop application helps small businesses manage invoices, expenses, and financial reporting.
 
 ## Project Screenshots
-Here are some snapshots of our DisasterConnect interface:
+Here are some snapshots of our InvoiceApp interface:
 ![Screenshot 1](/screenshots/1.jpg)
 ![Screenshot 2](/screenshots/2.jpg)
 ![Screenshot 3](/screenshots/3.jpg)
